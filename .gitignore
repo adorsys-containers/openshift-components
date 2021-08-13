@@ -2,6 +2,7 @@
 
 /.idea/
 *.iml
+
 /test-applications/
 
 origin-haproxy-router/**/haproxy-*
